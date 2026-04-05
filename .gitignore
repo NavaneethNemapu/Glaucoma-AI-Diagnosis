@@ -1,0 +1,20 @@
+# Python Environments & Cache
+myvenv/
+__pycache__/
+.vscode/
+
+# Massive Datasets (DO NOT UPLOAD)
+cleaned_dataset/
+eyepac_cleaned/
+eyepac-light*/
+
+# Build Folders & Temp Files
+uploads/
+node_modules/
+dist/
+
+# Heavy Model Weights & Secrets
+*.pth
+*.csv
+.env
+.DS_Store
